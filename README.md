@@ -1,3 +1,34 @@
+### Why is Andrew Smith avoiding interactions and plagiarizing?
+
+My old boss roped Andrew Smith and Isaac Neuhaus to help Brian Rini, the guy who runs [this trial](https://www.clinicaltrials.gov/study/NCT05361720) wrote "genetic testing" about RNA, didn't mention the Department of Defense until two years into the trial, and used a fictitious identifier. I didn't know. I only looked because the separation agreement reeked of despair (and stupidity).
+
+<kbd><img width=555 src="https://github.com/user-attachments/assets/481dd48b-471c-43be-8f57-1c129f428587" /> </kbd>
+
+### Request for additional work on my old code, for free and without attribution
+
+In February, my former employer emails me.  She fired me because I wouldn't violate FDA regulations, and had no involvement in this at all. I'm an author and have access to the code, and I somehow know what it's about.
+
+<kbd><img width=555 src="https://github.com/user-attachments/assets/e312e559-2dc4-41d8-9e1a-9ad34ee16746" /> </kbd>
+
+I'm a middle author. Sarah and Eric are included. Hell, no. (Also, note the branch. This is called "signaling intent".)
+
+<kbd><img width=555 src="https://github.com/user-attachments/assets/fde1ae3a-d5bf-4f56-8cb7-39479fa606d8" /> </kbd>
+
+Andrew knows it's my code, but doesn't reply. They wanted me to write about my old code, after committing me to BMS and an ex-BMS client at the same time.
+
+<kbd><img width=555 src="https://github.com/user-attachments/assets/bf8360c6-c513-44d3-b0f8-94bfc37bc9bf" /> </kbd>
+
+On 4/25, he drops me from the group:
+
+<kbd><img width=555 src="https://github.com/user-attachments/assets/946955e8-3c8e-41ab-aece-348538318b04" /> </kbd>
+
+On 4/28, they submit the manuscript without me, and the branch is gone. There's a vague acknowledgment, but this is my work and my ideas.
+
+<kbd><img width=555 src="https://github.com/user-attachments/assets/42ffacfb-83d1-40f5-a185-11d7c3f08562" /> </kbd>
+
+Everything below is from my fork on 4/25, after Andrew dropped me from the group.
+
+---
 # DockerImageBuilder
 
 The DockerImageBuilder is a powerful, layered approach to building complex Docker images that's ideal for computational research teams. The system breaks down the build process into discrete stages using configuration files and bash scripts, providing several key advantages:
