@@ -1,16 +1,41 @@
-### Why is Andrew Smith avoiding interactions and plagiarizing?
+### What I inherited from Bob Bruccoleri (Bash) vs. what I developed (Python)
 
-My old boss roped Andrew Smith and Isaac Neuhaus to help Brian Rini, the guy who runs [this trial](https://www.clinicaltrials.gov/study/NCT05361720) wrote "genetic testing" about RNA, didn't mention the Department of Defense until two years into the trial, and used a fictitious identifier. I didn't know. I only looked because the separation agreement reeked of despair (and stupidity).
+Left: I inherited a Bash process from Bob. ~100 files in one directory. I had to modify the scripts, run, debug, etc.. The Dockerfile disappeared if the step succeeded. The code and process were one. I asked Bob about rewriting. He told me to wait, so I did.
+Middle: There was no Python anything at the end of my first update, no folders, no scripts generating other scripts etc.
+Right: I did what they are claiming as theirs. It was my idea.
+<table>
+  <th>What I inherit in August 2022</th>
+    <th>11/22 - end of my first update</t>
+    <th>11/22 - I start rewriting</t>
+</th>
+  <tr>
+  <td align="center">
+<img width="47%" src="https://github.com/user-attachments/assets/0576d007-75a9-46a2-9a59-88d339095b0e"/> <img width="45%" src="https://github.com/user-attachments/assets/89b227c6-5da2-4b1b-8e2e-d8f7d534b01c"/>
+  </td>
+  <td align="center">
+    <img src="https://github.com/user-attachments/assets/5add5486-a88d-4ae5-b425-1f316f85c571"/>
+  </td>
+  <td align="center">
+    <img width="95%" src="https://github.com/user-attachments/assets/97dd9208-00a1-4e93-869f-59ce216abd4c"/>z
+  </td>
+
+</tr></table>
+
+![image](https://github.com/user-attachments/assets/c2a07692-95a8-4b1a-bd94-82e561e982f6)
+
+### What's up with Andrew Smith avoiding interactions and plagiarizing?
+
+My old boss roped Andrew Smith and Isaac Neuhaus into helping Brian Rini, the guy who runs [this trial](https://www.clinicaltrials.gov/study/NCT05361720) and wrote "genetic testing" about RNA, didn't mention the Department of Defense until two years into the trial, and used a fictitious identifier. I didn't know. I only looked because the separation agreement reeked of despair (and stupidity).
 
 <kbd><img width=555 src="https://github.com/user-attachments/assets/481dd48b-471c-43be-8f57-1c129f428587" /> </kbd>
 
 ### Request for additional work on my old code, for free and without attribution
 
-In February, my former employer emails me.  She fired me because I wouldn't violate FDA regulations, and had no involvement in this at all. I'm an author and have access to the code, and I somehow know what it's about.
+In February, my former employer emails me.  She fired me because I wouldn't violate FDA regulations, and had no involvement in this at all. I'm an author and have access to the code, and I somehow know what it's about. Note the branch. This is called "signaling intent".
 
 <kbd><img width=555 src="https://github.com/user-attachments/assets/e312e559-2dc4-41d8-9e1a-9ad34ee16746" /> </kbd>
 
-I'm a middle author. Sarah and Eric are included. Hell, no. (Also, note the branch. This is called "signaling intent".)
+I'm a middle author. Sarah and Eric are included. Hell, no.
 
 <kbd><img width=555 src="https://github.com/user-attachments/assets/fde1ae3a-d5bf-4f56-8cb7-39479fa606d8" /> </kbd>
 
