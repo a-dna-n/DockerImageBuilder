@@ -1,8 +1,22 @@
-### What I inherited from Bob Bruccoleri (Bash) vs. what I developed (Python)
+### The code I found vs. the code I wrote.
 
-Left: I inherited a Bash process from Bob. ~100 files in one directory. I had to modify the scripts, run, debug, etc.. The Dockerfile disappeared if the step succeeded. The code and process were one. I asked Bob about rewriting. He told me to wait, so I did.
+<TABLE>
+    <TR>
+      <TD>
+<P>
+<kbd></kbd><img src="https://github.com/user-attachments/assets/e507bb52-2b81-4d0f-b939-b5825a6d4eca")</kbd>
+
+</P>
+      </TD>
+    </TR>
+</TABLE>
+> TBIO-RR-Group/DockerImageBuilder/kde/tbio.2022/add_apts.sh
+
+### What I inherited from Bob Bruccoleri (Bash) vs. what I developed (Bash => Python)
+
+Left: I inherited a Bash process from Bob Bruccoleri. ~100 files in one directory. I had to modify the scripts, run, debug, etc.. The Dockerfile disappeared if the step succeeded. The code and process were one. I asked Bob if I could think about rewriting. He told me to wait, so I did.
 Middle: There was no Python anything at the end of my first update, no folders, no scripts generating other scripts etc.
-Right: I did what they are claiming as theirs. It was my idea.
+Right: I took the initiative.
 <table>
   <th>What I inherit in August 2022</th>
     <th>11/22 - end of my first update</t>
@@ -23,9 +37,11 @@ Right: I did what they are claiming as theirs. It was my idea.
 
 ![image](https://github.com/user-attachments/assets/c2a07692-95a8-4b1a-bd94-82e561e982f6)
 
-### What's up with Andrew Smith avoiding interactions and plagiarizing?
+### Why would Andrew Smith avoiding interactions while he plagiarizes?
 
-My old boss roped Andrew Smith and Isaac Neuhaus into helping Brian Rini, the guy who runs [this trial](https://www.clinicaltrials.gov/study/NCT05361720) and wrote "genetic testing" about RNA, didn't mention the Department of Defense until two years into the trial, and used a fictitious identifier. I didn't know. I only looked because the separation agreement reeked of despair (and stupidity).
+My old boss roped Andrew Smith and Isaac Neuhaus into helping Brian Rini, the guy who runs [this trial](https://www.clinicaltrials.gov/study/NCT05361720) and wrote "genetic testing" about RNA, didn't mention the Department of Defense until two years into the trial, and used a fictitious identifier. I didn't know. I only looked because the separation agreement said that they were desperate to hide something. In another state.
+
+So she assigned me full-time to Andrew Smith and Scott Chasalow, but only verbally, and made me do my work for the other client through my colleague Alex, while they coerced me to take over a project in R, which I hardly know. They were helping Brian Rini help Nirmala to build a case to fire me, which is odd because she didn't present it to me or to my state, though she seemed to think I was really dumb.
 
 <kbd><img width=555 src="https://github.com/user-attachments/assets/481dd48b-471c-43be-8f57-1c129f428587" /> </kbd>
 
