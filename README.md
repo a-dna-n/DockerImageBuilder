@@ -1,5 +1,7 @@
 ### The code I found vs. the code I wrote.
 
+I wrote most of the code in this repo. I inherited a mess and turned it into something reproducible. Feel free to ask Andrew Smith why he's [plagiarizing](https://osf.io/8pgd7_v1). The arguments in Python, the script names etc.
+
 <TABLE>
     <TR>
       <TD>
@@ -10,7 +12,6 @@
       </TD>
     </TR>
 </TABLE>
-> TBIO-RR-Group/DockerImageBuilder/kde/tbio.2022/add_apts.sh
 
 ### What I inherited from Bob Bruccoleri (Bash) vs. what I developed (Bash => Python)
 
@@ -37,11 +38,11 @@ Right: I took the initiative.
 
 ![image](https://github.com/user-attachments/assets/c2a07692-95a8-4b1a-bd94-82e561e982f6)
 
-### Why would Andrew Smith avoiding interactions while he plagiarizes?
+### Why would Andrew Smith avoiding exchanges and plagiarize?
 
 My old boss roped Andrew Smith and Isaac Neuhaus into helping Brian Rini, the guy who runs [this trial](https://www.clinicaltrials.gov/study/NCT05361720) and wrote "genetic testing" about RNA, didn't mention the Department of Defense until two years into the trial, and used a fictitious identifier. I didn't know. I only looked because the separation agreement said that they were desperate to hide something. In another state.
 
-So she assigned me full-time to Andrew Smith and Scott Chasalow, but only verbally, and made me do my work for the other client through my colleague Alex, while they coerced me to take over a project in R, which I hardly know. They were helping Brian Rini help Nirmala to build a case to fire me, which is odd because she didn't present it to me or to my state, though she seemed to think I was really dumb.
+So she assigned me full-time to Andrew Smith and Scott Chasalow, but only verbally, and made me do my work for the other client through my colleague Alex, while they coerced me to take over a project in R, which I hardly know. They were helping Brian Rini help Nirmala to build a case to fire me, which is odd because she didn't present it to me or to my state, though she seemed to think I was really dumb. These people caused me and my kids horrible grief.
 
 <kbd><img width=555 src="https://github.com/user-attachments/assets/481dd48b-471c-43be-8f57-1c129f428587" /> </kbd>
 
