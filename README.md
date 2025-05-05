@@ -1,7 +1,6 @@
 ### The code I found vs. the code I wrote.
 
-I wrote most of the code in this repo. I inherited a mess and turned it into something reproducible. Feel free to ask Andrew Smith why he's [plagiarizing](https://osf.io/8pgd7_v1). The arguments in Python, the script names etc.
-
+I wrote most of the code in this repo. I inherited a mess and turned it into something reproducible. Feel free to ask Andrew Smith why he [removed me from the manuscript](https://osf.io/8pgd7_v1). 
 <TABLE>
     <TR>
       <TD>
