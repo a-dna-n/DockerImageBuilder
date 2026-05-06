@@ -1,8 +1,14 @@
 ## Introduction
 
-I wrote almost all of the code in this repo, like 99% of it. It was a complete rewrite of a complex collection of scripts and config files that was context-dependent, difficult to use, very difficult to update, and basically Bash-based. This rewrite and many of the implementation details were my ideas. It is a partial first step from Bash to Python because it met multiple needs.
+I wrote almost all of the code in this repo, like 99% of it. It was a complete rewrite of a complex collection of scripts and config files that was context-dependent, difficult to use, very difficult to update, and basically Bash-based. This rewrite and many of the implementation details were my ideas, and the reason for all the Bash scripts is that this was just a first step from Bash to Python that met multiple needs in a reasonable time.
 
-More to come.
+## Preprints
+
+There are two pre-prints that provide context for this code, for different reasons:
+
+[https://osf.io/user/spju8](https://osf.io/user/spju8)
+
+(More to come.)
 
 ## Previous implementation of Docker Image Builder
 
